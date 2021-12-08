@@ -1,0 +1,17 @@
+# igNews
+
+A NextJS project develop for Rocketeseat's Ignite training. Used PrismicIO as CMS, faunaDB as database (integrated with Server Side Rendering for NextJS), Server Side Rendering from NextJS, Stripe as payment processing, React's JSX standard, components structure and SASS.
+
+To run it clone the project with "git clone git@github.com:pdr3392/igNews.git", install the dependencies with* "yarn install" and run the project with* "yarn dev".
+
+This project's layout was built from scratch with Ignite's trainer (Diego Fernandes, https://github.com/diego3g).
+(*You can also use "npm" or "npx".)
+
+Application preview:
+
+<div align="center">
+<img src="https://lh3.googleusercontent.com/fife/AAWUweXR40wfxI9GSM6xn8nzw2m6fjwh1rsj2yrCyyiZWfIZ5KqlL4YsMWaIALUzcADDbzOWW9fZGlJeNFOfcwqfL2qq4I31Cl9P-Bv8PLg0oUXfqfrA-g-WltmM4iXs5nXyyi0HEXtUOm2TzIp5zirkWbQAoStPMllIC2jIZXnr2uQgYXe6YZrduqaSf846kfFT9jHxSWZEU45B50G1PKz1Q8T8n9LfnhwOCz09SlAapVKwkcFM-sj4v0S-nLgYaoyhuSNjC3tCnxZz69p-2KHT9xH3wKuxyLqa0wcSqGY7SotbyfWrCFPzM05pL9gsQnL-QYFBMHuMbB-EOUq6f2C1o9tqQ-BdF7N2m2dNhsz_uukg1sTpSKV_YqHdCfrGlLDd38AATnRbmKIVZu6MDHjALY9UKC4FlLwtZWBCVfYddvFwjOBiChYyw9FmYOjoyXNvPahICYyrIT2GFvIv5B7aOp7TtEdWYrTFiiZHvlkWIGK8x2aiGSmPtdNAr2s2b4F2qfHnJm6514GPB2RZpcoDs2paqYu5aNFvXPqA5OvTdeyiEVi3IvxdOTOD_EitiDjHqpcSmJBipq9w3fAqoFUh3bam2lJbwY2tiOtS4c79ynxX_7y4ixJ6SWDMUdEgpLx4nAH-d_hqy0tGPKa1RLd1xcMUAR_WF6oT8GTOIr00XU1cc4mLF2tzoWkMOekd-tgstwZ8L1OQkkLVbuaxwJYipd0VJ0Ju3FDmaeE=w1360-h668-ft" />
+<br />
+<br />
+<img src="https://lh3.googleusercontent.com/fife/AAWUweVR6lYsDHTgGEUe_oG_ipfqDWx-kuHVA-oTREbdZUASNpdoHQ8m3BbjKsS1nGXJ3nqVjgxultu7Q0EfsAk-vDmmX422ld_Pkq-u7VVqVBj0ZQwA94rEf9If_XYkIkCDU9SOLDvAYIEYNJw_NYw0Lu4VR6u_mNGd-M90GWLXs_jtfELkUiMERvL5qE5oIZGBvS-uKeY4GRNC4gl8fuQODLwL2dadTknjIIx_sGo9-H2BLOBEo7-HTvJII6angAXlJO5yQ4_-AApPm7ytAv4l8YSKigkJuu7xCX3edApPN65nwgEUAfoEZzAWCmzQFgGD63TiwAIKSFnQImNpkQYtGXgZm8ONf1Q1vnopKAljzdqR9PvNVPVxcuYBBVywlgCJQA0q1jf4bx4sum_GqjbsyyevIKcWIrItMMN1xV6Y0LQ9PDnGvKpeSDqnt5KaYSvDxDPF7mYBw1sjaEFZccGL-ngPdIsHqYEk1mC6Gb8JU-8hH6zvPDH8PmR9megAA5hDFVtaZNYafqunLI2zXqToWlHw_qs82sqUmP-W-4ms9ivHfRPoHbY7LhTffYhc8_IUH4Y1X8PpWYTwiPEkvs5Nq9BgaDUYizuGO-KoF5IFcbUt1NVPyI-IpTz-ZuGfLUIizwFaLtWJoHhLW0HzrkX9x2PdZOQpTRXbEhnlk7HtGOGudm4aeFgRZpf7PZCZmeFTXfaZkuEMz1xGJ1JlcCdGYZjct5ZL9noSjtA=w1360-h668-ft" />
+</div>
